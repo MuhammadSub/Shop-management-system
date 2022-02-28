@@ -1,0 +1,5 @@
+
+	Your bill is: 
+
+	White-Paint(1.5ltr) : 2
+	Total amount: Rs.1242
